@@ -1,0 +1,12 @@
+C:\Users\Russkiy\Documents\Visual Studio 2012\Projects\калкулятор для перевода чисел(ООП)\WindowsFormsApplication48\bin\Debug\WindowsFormsApplication48.exe.config
+C:\Users\Russkiy\Documents\Visual Studio 2012\Projects\калкулятор для перевода чисел(ООП)\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.exe
+C:\Users\Russkiy\Documents\Visual Studio 2012\Projects\калкулятор для перевода чисел(ООП)\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.pdb
+C:\Users\Russkiy\Documents\Visual Studio 2012\Projects\калкулятор для перевода чисел(ООП)\WindowsFormsApplication48\bin\Debug\WindowsFormsApplication48.exe
+C:\Users\Russkiy\Documents\Visual Studio 2012\Projects\калкулятор для перевода чисел(ООП)\WindowsFormsApplication48\bin\Debug\WindowsFormsApplication48.pdb
+C:\Users\Russkiy\Documents\Visual Studio 2012\Projects\калкулятор для перевода чисел(ООП)\WindowsFormsApplication48\obj\Debug\CalcSistemSchisl.csprojResolveAssemblyReference.cache
+C:\Users\Russkiy\Documents\Visual Studio 2012\Projects\калкулятор для перевода чисел(ООП)\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.Form1.resources
+C:\Users\Russkiy\Documents\Visual Studio 2012\Projects\калкулятор для перевода чисел(ООП)\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.Properties.Resources.resources
+C:\Users\Russkiy\Documents\Visual Studio 2012\Projects\калкулятор для перевода чисел(ООП)\WindowsFormsApplication48\obj\Debug\CalcSistemSchisl.csproj.GenerateResource.Cache
+C:\Users\Russkiy\Desktop\калкулятор для перевода чисел(ООП)\WindowsFormsApplication48\bin\Debug\WindowsFormsApplication48.exe.config
+C:\Users\Russkiy\Desktop\калкулятор для перевода чисел(ООП)\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.exe
+C:\Users\Russkiy\Desktop\калкулятор для перевода чисел(ООП)\WindowsFormsApplication48\obj\Debug\WindowsFormsApplication48.pdb
